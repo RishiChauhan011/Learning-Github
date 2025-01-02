@@ -2,4 +2,4 @@
 
 First Repository
 <br>
-Author -Rishi
+Author -Rishi Chauhan
